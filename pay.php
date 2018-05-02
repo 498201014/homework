@@ -1,2 +1,2 @@
-#wechat pay
-invoke wechat pay interface
+#ali pay
+invoke ali pay interface
